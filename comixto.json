@@ -1,11 +1,11 @@
 {
   "chapters": {
-    "selector": ".list-chapter a",
+    "selector": "a[href*='-chapter-']",
     "url": "href"
   },
   "images": {
-    "selector": ".page-chapter img",
-    "url": "data-original"
+    "selector": "img[data-src], img[data-original], img[src]",
+    "urlPriority": ["data-src", "data-original", "src"]
   },
   "headers": {
     "referer": "{domain}"
