@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "engines": [
+    {
+      "id": "nettruyen",
+      "name": "NetTruyen",
+      "domains": [
+        "nettruyen.vn",
+        "nettruyenpro.com"
+      ],
+      "file": "nettruyen.json"
+    }
+  ]
+}
