@@ -1,0 +1,13 @@
+{
+  "chapters": {
+    "selector": ".list-chapter a",
+    "url": "href"
+  },
+  "images": {
+    "selector": ".page-chapter img",
+    "url": "data-original"
+  },
+  "headers": {
+    "referer": "{domain}"
+  }
+}
