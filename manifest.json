@@ -9,6 +9,14 @@
         "nettruyenpro.com"
       ],
       "file": "nettruyen.json"
+    },
+    {
+      "id": "comixto",
+      "name": "ComixTo",
+      "domains": [
+        "comix.to"
+      ],
+      "file": "comixto.json"
     }
   ]
 }
